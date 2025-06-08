@@ -1,0 +1,14 @@
+C:\Alisson-AMS\Projects\AMST5_TASKEX_DEPENDENCY\bin\Debug\net8.0\AMST5_TASKEX_DEPENDENCY.exe
+C:\Alisson-AMS\Projects\AMST5_TASKEX_DEPENDENCY\bin\Debug\net8.0\AMST5_TASKEX_DEPENDENCY.deps.json
+C:\Alisson-AMS\Projects\AMST5_TASKEX_DEPENDENCY\bin\Debug\net8.0\AMST5_TASKEX_DEPENDENCY.runtimeconfig.json
+C:\Alisson-AMS\Projects\AMST5_TASKEX_DEPENDENCY\bin\Debug\net8.0\AMST5_TASKEX_DEPENDENCY.dll
+C:\Alisson-AMS\Projects\AMST5_TASKEX_DEPENDENCY\bin\Debug\net8.0\AMST5_TASKEX_DEPENDENCY.pdb
+C:\Alisson-AMS\Projects\AMST5_TASKEX_DEPENDENCY\obj\Debug\net8.0\AMST5_TASKEX_DEPENDENCY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alisson-AMS\Projects\AMST5_TASKEX_DEPENDENCY\obj\Debug\net8.0\AMST5_TASKEX_DEPENDENCY.AssemblyInfoInputs.cache
+C:\Alisson-AMS\Projects\AMST5_TASKEX_DEPENDENCY\obj\Debug\net8.0\AMST5_TASKEX_DEPENDENCY.AssemblyInfo.cs
+C:\Alisson-AMS\Projects\AMST5_TASKEX_DEPENDENCY\obj\Debug\net8.0\AMST5_TASKEX_DEPENDENCY.csproj.CoreCompileInputs.cache
+C:\Alisson-AMS\Projects\AMST5_TASKEX_DEPENDENCY\obj\Debug\net8.0\AMST5_TASKEX_DEPENDENCY.dll
+C:\Alisson-AMS\Projects\AMST5_TASKEX_DEPENDENCY\obj\Debug\net8.0\refint\AMST5_TASKEX_DEPENDENCY.dll
+C:\Alisson-AMS\Projects\AMST5_TASKEX_DEPENDENCY\obj\Debug\net8.0\AMST5_TASKEX_DEPENDENCY.pdb
+C:\Alisson-AMS\Projects\AMST5_TASKEX_DEPENDENCY\obj\Debug\net8.0\AMST5_TASKEX_DEPENDENCY.genruntimeconfig.cache
+C:\Alisson-AMS\Projects\AMST5_TASKEX_DEPENDENCY\obj\Debug\net8.0\ref\AMST5_TASKEX_DEPENDENCY.dll
