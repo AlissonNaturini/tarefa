@@ -12,3 +12,4 @@ C:\Alisson-AMS\Projects\AMST5_TASKEX_DEPENDENCY\obj\Debug\net8.0\refint\AMST5_TA
 C:\Alisson-AMS\Projects\AMST5_TASKEX_DEPENDENCY\obj\Debug\net8.0\AMST5_TASKEX_DEPENDENCY.pdb
 C:\Alisson-AMS\Projects\AMST5_TASKEX_DEPENDENCY\obj\Debug\net8.0\AMST5_TASKEX_DEPENDENCY.genruntimeconfig.cache
 C:\Alisson-AMS\Projects\AMST5_TASKEX_DEPENDENCY\obj\Debug\net8.0\ref\AMST5_TASKEX_DEPENDENCY.dll
+C:\Alisson-AMS\Projects\AMST5_TASKEX_DEPENDENCY\obj\Debug\net8.0\AMST5_TASKEX_DEPENDENCY.sourcelink.json

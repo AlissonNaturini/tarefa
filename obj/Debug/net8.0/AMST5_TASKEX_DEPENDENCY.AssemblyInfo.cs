@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AMST5_TASKEX_DEPENDENCY")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b61837409d261a0f618e098b24e6f2d56bbd386b")]
 [assembly: System.Reflection.AssemblyProductAttribute("AMST5_TASKEX_DEPENDENCY")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AMST5_TASKEX_DEPENDENCY")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
